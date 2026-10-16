@@ -1,7 +1,18 @@
-Intermediate/
-DerivedDataCache/
-Saved/
+# Unreal Engine 5 - generated files and caches
 Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE and local development files
 .vs/
 .idea/
 .vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
