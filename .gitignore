@@ -16,3 +16,6 @@ DerivedDataCache/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local Claude Code / MCP config
+.mcp.json
